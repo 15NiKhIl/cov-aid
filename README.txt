@@ -44,15 +44,6 @@ ____________________________________________SETUP_______________________________
 4.) Open the htdocs folder in the xampp folder. Copy paste the folder cov-aid.
 5.) Open the browser (chrome), type localhost/cov-aid/index.php and you should see the main page of the website.
 
-*******************************************************************************************************************************************
-Team Name :- Cov-Aid
 
-Team Memebers :-
-
-1. Swikriti Gupta
-2. Vani Malhotra
-3. Nikhil Jain
-4. Ritika Verma
-5. Muskaan Singh
 
 *********************************************END OF DOCUMENT********************************************************************************
